@@ -53,6 +53,29 @@ lib/
 | `GamePage` | Affiche la grille de jeu |
 | `Tile` | Tuile individuelle affichant une lettre et sa couleur |
 
+* DevTools & Débogage :
+
+Ce projet est compatible avec **Flutter DevTools** pour faciliter le débogage et l'inspection de l'interface.
+
+* Lancer DevTools :
+```bash
+flutter run --debug
+```
+Puis dans le terminal, appuyez sur **`d`** pour ouvrir DevTools dans le navigateur.
+
+* Outils utiles pour ce projet : 
+
+| Outil | Utilité |
+|---|---|
+| **Widget Inspector** | Inspecter l'arbre des widgets (`Tile`, `GamePage`, etc.) |
+| **Performance** | Vérifier les rebuilds inutiles des tuiles |
+| **Debugger** | Poser des points d'arrêt dans `game.dart` |
+
+* Astuces : 
+
+- Utilisez le **Widget Inspector** pour vérifier que chaque `Tile` reçoit bien la bonne couleur selon le `HitType`
+- Activez **"Highlight repaints"** pour détecter les widgets qui se redessin inutilement
+  
 * Captures d'écran :
   <img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/90e29b8a-541c-40be-84f6-feffb74803ba" />
   
