@@ -84,8 +84,10 @@ Puis dans le terminal, appuyez sur **`d`** pour ouvrir DevTools dans le navigate
 <img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/68bcbcc7-9c43-43c2-b269-a05d81ddc5b1" />
 
 <img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/899bc50a-a57f-431b-8419-da41a569aff3" />
+<img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/81453b67-5020-4fdb-84e5-65cd3f0e9853" />
 
 
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/5fded2ae-c32c-47f2-af4f-380995e620ae" />
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/c7f98c10-80d3-46d2-a3e6-3e75744f45f8" />
 
+<img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/19e980d6-1c35-4fc6-8631-8e4ae5c9fbfa" />
 
