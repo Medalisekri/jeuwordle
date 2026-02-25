@@ -77,15 +77,13 @@ Puis dans le terminal, appuyez sur **`d`** pour ouvrir DevTools dans le navigate
 - Activez **"Highlight repaints"** pour détecter les widgets qui se redessin inutilement
   
 * Captures d'écran :
-  <img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/90e29b8a-541c-40be-84f6-feffb74803ba" />
   
-  <img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/731a3a8a-6f4b-4d47-b013-52c945de4179" />
-  
-<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/68bcbcc7-9c43-43c2-b269-a05d81ddc5b1" />
+<img width="1566" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/41f3ddff-91e9-4ba2-99c4-7b89559b2353" />
+<img width="1555" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/68456bc2-40c3-4d7f-baf1-2529b9a5d432" />
+<img width="1559" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/33297e41-ee2c-4d25-b36c-d8fc3853a40e" />
+<img width="1541" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/9103e140-e0a8-4dc5-8392-025fcb82ca29" />
 
-<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/899bc50a-a57f-431b-8419-da41a569aff3" />
 <img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/81453b67-5020-4fdb-84e5-65cd3f0e9853" />
-
 
 <img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/c7f98c10-80d3-46d2-a3e6-3e75744f45f8" />
 
